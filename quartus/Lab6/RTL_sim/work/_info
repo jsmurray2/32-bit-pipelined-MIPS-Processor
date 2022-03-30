@@ -1,0 +1,1512 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/School/Lab5/RTLsim
+E\32bitalu\
+Z0 w1570202954
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z3 dC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/RTL_sim
+Z4 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/32bitalu.vhd
+Z5 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/32bitalu.vhd
+l0
+Z6 L25 1
+VofIQ1oNc^GL5njNVKE?1`2
+!s100 S:N<fdPa2>GOQ]GZhY_Ag3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1606275354
+!i10b 1
+Z9 !s108 1606275354.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/32bitalu.vhd|
+Z11 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/32bitalu.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+n@13432bitalu@134
+Abdf_type
+R1
+R2
+DEx4 work 10 \32bitalu\ 0 22 ofIQ1oNc^GL5njNVKE?1`2
+!i122 2
+l98
+L42 466
+VlIEGPSSSWkZAGLCOeXQ4Z1
+!s100 mV0mIi8H<8T1VjWZD`jEl2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu_1bit_adder
+Z14 w1568987210
+R1
+R2
+!i122 3
+R3
+Z15 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/alu_1bit_adder.vhd
+Z16 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/alu_1bit_adder.vhd
+l0
+Z17 L43 1
+V_WLS:dWjRl8O28DbeQIL43
+!s100 JJIBE`iROcd8XW9SGd`Zn0
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/alu_1bit_adder.vhd|
+Z19 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/alu_1bit_adder.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 14 alu_1bit_adder 0 22 _WLS:dWjRl8O28DbeQIL43
+!i122 3
+l79
+L55 47
+VVld<denzVBGi:dZAebA8F0
+!s100 e[T<b2U7S?VTdcI3bWn_91
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Ealucontrol
+Z20 w1575868472
+R1
+R2
+!i122 4
+R3
+Z21 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ALUControl.vhd
+Z22 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ALUControl.vhd
+l0
+Z23 L24 1
+VkHHDTI^FF?5103l]Wi0kg0
+!s100 8A?i9El_BnFFz_nkl[X3S1
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ALUControl.vhd|
+Z25 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ALUControl.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 10 alucontrol 0 22 kHHDTI^FF?5103l]Wi0kg0
+!i122 4
+l45
+L35 40
+VHbJ5;bmj0<JIk?`FSJ^SI2
+!s100 V^AKPH:?_hMU1560l3GWT2
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
+Ebranchshift
+Z26 w1575658048
+R1
+R2
+!i122 5
+R3
+Z27 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/branchshift.vhd
+Z28 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/branchshift.vhd
+l0
+R17
+Vae:8cZU:[hcPl2Lijb?Ro1
+!s100 BEIg56__jbZ`A6RMd<:Il0
+R7
+32
+R8
+!i10b 1
+R9
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/branchshift.vhd|
+Z30 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/branchshift.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 11 branchshift 0 22 ae:8cZU:[hcPl2Lijb?Ro1
+!i122 5
+l75
+L53 43
+VZ:EdEOjjIO>kkAn=]agS;1
+!s100 LLJO5VlYeRX:[;ckd4O:^3
+R7
+32
+R8
+!i10b 1
+R9
+R29
+R30
+!i113 1
+R12
+R13
+Econstant4
+Z31 w1575658130
+R1
+R2
+!i122 6
+R3
+Z32 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/constant4.vhd
+Z33 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/constant4.vhd
+l0
+R17
+V:[@0]ln=FgKGA1Ze`A;JV2
+!s100 9oa=[RK7TA^RA0fR<m?>:0
+R7
+32
+R8
+!i10b 1
+R9
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/constant4.vhd|
+Z35 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/constant4.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 9 constant4 0 22 :[@0]ln=FgKGA1Ze`A;JV2
+!i122 6
+l69
+L51 35
+VbOF9?Vfjdia;I2m68271V1
+!s100 H`=KDTV<5z<JA[hSUIki62
+R7
+32
+R8
+!i10b 1
+R9
+R34
+R35
+!i113 1
+R12
+R13
+Edatamemory
+Z36 w1573836512
+Z37 DPx9 altera_mf 20 altera_mf_components 0 22 HVLmIbRl@QhXfWVOmhK<j1
+R1
+R2
+!i122 7
+R3
+Z38 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/datamemory.vhd
+Z39 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/datamemory.vhd
+l0
+R17
+VGDQE?>QCan[Z6H00X]Azg3
+!s100 @=C0<W@;gTi^FOZEzg?O10
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/datamemory.vhd|
+Z41 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/datamemory.vhd|
+!i113 1
+R12
+R13
+Asyn
+R37
+R1
+R2
+DEx4 work 10 datamemory 0 22 GDQE?>QCan[Z6H00X]Azg3
+!i122 7
+l61
+L57 43
+VS@o4YC^Vz7CEXHY;JiPA]0
+!s100 ^Ra5BJH]GagReZAQa9@EM3
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Efivebitreg
+Z42 w1575770084
+R1
+R2
+!i122 8
+R3
+Z43 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fivebitreg.vhd
+Z44 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fivebitreg.vhd
+l0
+R23
+VI2hU[ciX83g3LM?6ZU`hB2
+!s100 2Y?fL^dJ3Yz7:XIU5eND20
+R7
+32
+Z45 !s110 1606275355
+!i10b 1
+R9
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fivebitreg.vhd|
+Z47 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fivebitreg.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 10 fivebitreg 0 22 I2hU[ciX83g3LM?6ZU`hB2
+!i122 8
+l45
+L35 92
+VLO2zCb4:_l2^RO;T_ji1b3
+!s100 eBU3>MH?<C177EU;MPcH31
+R7
+32
+R45
+!i10b 1
+R9
+R46
+R47
+!i113 1
+R12
+R13
+Efourbitreg
+Z48 w1575778754
+R1
+R2
+!i122 9
+R3
+Z49 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fourbitreg.vhd
+Z50 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fourbitreg.vhd
+l0
+R23
+VB74f7j7=QlF=H_BYEBlFR0
+!s100 b[fnTYgDn16?gV>4hVKj:3
+R7
+32
+R45
+!i10b 1
+Z51 !s108 1606275355.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fourbitreg.vhd|
+Z53 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fourbitreg.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 10 fourbitreg 0 22 B74f7j7=QlF=H_BYEBlFR0
+!i122 9
+l45
+L35 78
+VWQV8>_beFBM[VcCYiS^f02
+!s100 S`BdU^mQSoh7WAL1^gC?W2
+R7
+32
+R45
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R12
+R13
+Eglobalcontrol
+Z54 w1576000484
+R1
+R2
+!i122 10
+R3
+Z55 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/GlobalControl.vhd
+Z56 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/GlobalControl.vhd
+l0
+R6
+V>MObQ;nUSN^W?]2eW83f41
+!s100 B]z4KLLSUYBY0LJ`cQ1:W1
+R7
+32
+R45
+!i10b 1
+R51
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/GlobalControl.vhd|
+Z58 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/GlobalControl.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 13 globalcontrol 0 22 >MObQ;nUSN^W?]2eW83f41
+!i122 10
+l69
+L41 143
+VCd2U1]10Ymn;Mm<D3i0zY2
+!s100 JY7MQC5CjbkZ20DHUWZV`0
+R7
+32
+R45
+!i10b 1
+R51
+R57
+R58
+!i113 1
+R12
+R13
+Eimemresetmux
+Z59 w1575862888
+Z60 DPx3 lpm 14 lpm_components 0 22 jlWe>e^2@cAI7EQaRX2E;1
+R1
+R2
+!i122 11
+R3
+Z61 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ImemResetMux.vhd
+Z62 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ImemResetMux.vhd
+l0
+Z63 L42 1
+VmaU0Q?DmnlQW1_NS>>hIN1
+!s100 ce=^XHc02QWIG0Gd=a6jF0
+R7
+32
+R45
+!i10b 1
+R51
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ImemResetMux.vhd|
+Z65 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ImemResetMux.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 12 imemresetmux 0 22 maU0Q?DmnlQW1_NS>>hIN1
+!i122 11
+l64
+L53 48
+VSKDNJ2M[8k5N6LHH4BU5@3
+!s100 ?AJYDEXdmJ:`gDZPHK[;72
+R7
+32
+R45
+!i10b 1
+R51
+R64
+R65
+!i113 1
+R12
+R13
+Ejumpshift
+Z66 w1575658846
+R1
+R2
+!i122 12
+R3
+Z67 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/jumpshift.vhd
+Z68 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/jumpshift.vhd
+l0
+R6
+Vn1j<6cVKgSlT3KAg39WFe2
+!s100 CWD9:XNO@8[<f7mka9?>R2
+R7
+32
+R45
+!i10b 1
+R51
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/jumpshift.vhd|
+Z70 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/jumpshift.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 9 jumpshift 0 22 n1j<6cVKgSlT3KAg39WFe2
+!i122 12
+l39
+L33 20
+V6izYf^2^3RUeQPK0W?U9;2
+!s100 z_eF_8^GXmYg3FM0bYbca0
+R7
+32
+R45
+!i10b 1
+R51
+R69
+R70
+!i113 1
+R12
+R13
+Emem1p128w32b
+Z71 w1575753828
+R37
+R1
+R2
+!i122 13
+R3
+Z72 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem1p128w32b.vhd
+Z73 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem1p128w32b.vhd
+l0
+R63
+VdSW6IN:1^R=`]FB^kJN8X3
+!s100 M3GSaaHkLE6EEd:[U15na2
+R7
+32
+R45
+!i10b 1
+R51
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem1p128w32b.vhd|
+Z75 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem1p128w32b.vhd|
+!i113 1
+R12
+R13
+Asyn
+R37
+R1
+R2
+DEx4 work 12 mem1p128w32b 0 22 dSW6IN:1^R=`]FB^kJN8X3
+!i122 13
+l59
+L55 37
+VDl@@94k[A_lagcOW1U7L]2
+!s100 d@lLMF@<_?F;o>1S<k5Mm2
+R7
+32
+R45
+!i10b 1
+R51
+R74
+R75
+!i113 1
+R12
+R13
+Emem2p128w32b
+Z76 w1568384908
+R37
+R1
+R2
+!i122 14
+R3
+Z77 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem2p128w32b.vhd
+Z78 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem2p128w32b.vhd
+l0
+R17
+VCS6nS<2Jb>VIiKOgcY2QO2
+!s100 9dI8MPm1mYEBLLNkP38^U2
+R7
+32
+R45
+!i10b 1
+R51
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem2p128w32b.vhd|
+Z80 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem2p128w32b.vhd|
+!i113 1
+R12
+R13
+Asyn
+R37
+R1
+R2
+DEx4 work 12 mem2p128w32b 0 22 CS6nS<2Jb>VIiKOgcY2QO2
+!i122 14
+l61
+L57 44
+Vg=3X[WmNKNjBZjgUMzH9T3
+!s100 @C8N>hmXjb:;W13U?]7ZB1
+R7
+32
+R45
+!i10b 1
+R51
+R79
+R80
+!i113 1
+R12
+R13
+Ememblock
+Z81 w1567774222
+R1
+R2
+!i122 15
+R3
+Z82 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MemBlock.vhd
+Z83 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MemBlock.vhd
+l0
+R6
+VEco6@H5ck;;ih0h^;T>ml3
+!s100 HCQBz2iXOoc@dz32Q?=>g1
+R7
+32
+R45
+!i10b 1
+R51
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MemBlock.vhd|
+Z85 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MemBlock.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 8 memblock 0 22 Eco6@H5ck;;ih0h^;T>ml3
+!i122 15
+l51
+L37 28
+VNK8DehJdLFNO1o6=fKN8h3
+!s100 OQeH[VCbdHbXioOWoM^OE0
+R7
+32
+R45
+!i10b 1
+R51
+R84
+R85
+!i113 1
+R12
+R13
+Emips_pipelined_processor
+Z86 w1576004698
+R1
+R2
+!i122 16
+R3
+Z87 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mips_pipelined_processor.vhd
+Z88 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mips_pipelined_processor.vhd
+l0
+R6
+V`0VA_HbPQfWMB<gPb<5M?1
+!s100 ZiZR9Z?MeF0BKhjV5;^?33
+R7
+32
+Z89 !s110 1606275356
+!i10b 1
+R51
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mips_pipelined_processor.vhd|
+Z91 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mips_pipelined_processor.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 24 mips_pipelined_processor 0 22 `0VA_HbPQfWMB<gPb<5M?1
+!i122 16
+l309
+L57 673
+VfJ702VZ_CdoVSePHESnm^0
+!s100 _bIjYAE:SO_aVCT>@baZe0
+R7
+32
+R89
+!i10b 1
+R51
+R90
+R91
+!i113 1
+R12
+R13
+Emux_2_1_16b
+Z92 w1559270764
+R60
+R1
+R2
+!i122 18
+R3
+Z93 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MUX_2_1_16b.vhd
+Z94 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MUX_2_1_16b.vhd
+l0
+R17
+V=7FnjI@SIDD826bzeSj:F3
+!s100 n@_S`kRTJI;?T@hX1ffSN1
+R7
+32
+R89
+!i10b 1
+Z95 !s108 1606275356.000000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MUX_2_1_16b.vhd|
+Z97 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MUX_2_1_16b.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 11 mux_2_1_16b 0 22 =7FnjI@SIDD826bzeSj:F3
+!i122 18
+l65
+L54 66
+VV5hA>K[Wb2J3@U=:kd=]o1
+!s100 e5cejaENlnUKG>9iT7``G0
+R7
+32
+R89
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R12
+R13
+Emux_2_1_1b
+Z98 w1568987362
+R60
+R1
+R2
+!i122 17
+R3
+Z99 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_2_1_1b.vhd
+Z100 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_2_1_1b.vhd
+l0
+R17
+VKhz]9?KPbccb@e_TN8CGF1
+!s100 hCD`AS>iLa42e8zJb1=592
+R7
+32
+R89
+!i10b 1
+R95
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_2_1_1b.vhd|
+Z102 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_2_1_1b.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 10 mux_2_1_1b 0 22 Khz]9?KPbccb@e_TN8CGF1
+!i122 17
+l66
+L54 38
+VWNHZ2gJ[;[?RhWPnzA4ee0
+!s100 0<ON^Ei5EWU[3I3onOTj]3
+R7
+32
+R89
+!i10b 1
+R95
+R101
+R102
+!i113 1
+R12
+R13
+Emux_4_1_1b
+Z103 w1568987398
+R60
+R1
+R2
+!i122 19
+R3
+Z104 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_4_1_1b.vhd
+Z105 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_4_1_1b.vhd
+l0
+R17
+VkGgll6VbQA[O3N>PNbzZE0
+!s100 `RkmD2^X7<_HUm[ZC59Ld3
+R7
+32
+R89
+!i10b 1
+R95
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_4_1_1b.vhd|
+Z107 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_4_1_1b.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 10 mux_4_1_1b 0 22 kGgll6VbQA[O3N>PNbzZE0
+!i122 19
+l68
+L56 40
+V3lO1N=bQg3o]eJVYbob3L0
+!s100 W0h^O41aof_f?;i`j^]4U1
+R7
+32
+R89
+!i10b 1
+R95
+R106
+R107
+!i113 1
+R12
+R13
+Eonebitalu
+Z108 w1570194900
+R1
+R2
+!i122 20
+R3
+Z109 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/onebitalu.vhd
+Z110 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/onebitalu.vhd
+l0
+R6
+V2]1688=oNPUWn?7e4G0H>3
+!s100 B853CR<d:hOS>kG^Zm4@W2
+R7
+32
+R89
+!i10b 1
+R95
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/onebitalu.vhd|
+Z112 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/onebitalu.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 9 onebitalu 0 22 2]1688=oNPUWn?7e4G0H>3
+!i122 20
+l79
+L41 89
+VdkMWn@9m7jk:Xo5]<]kTX2
+!s100 I<N02HAV3M^eiIPJS0kUa0
+R7
+32
+R89
+!i10b 1
+R95
+R111
+R112
+!i113 1
+R12
+R13
+Epllphaseshift
+Z113 w1573831620
+R1
+R2
+Z114 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3dzZ?YU_4FC5UU0cTXRET1
+!i122 1
+R3
+Z115 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift_sim/pllphaseshift.vho
+Z116 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift_sim/pllphaseshift.vho
+l0
+L34 1
+V>[]D>8@4JES^o]e@z?LOZ0
+!s100 kLFZPM9hEC^N2b0?jFo>l3
+R7
+32
+R8
+!i10b 1
+R9
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift_sim/pllphaseshift.vho|
+Z118 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift_sim/pllphaseshift.vho|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R114
+DEx4 work 13 pllphaseshift 0 22 >[]D>8@4JES^o]e@z?LOZ0
+!i122 1
+l53
+L46 264
+VNcWVFJhD9JBDT16LaC7_70
+!s100 ZC2CH10O4GJnGjz6>LMH11
+R7
+32
+R8
+!i10b 1
+R9
+R117
+R118
+!i113 1
+R12
+R13
+Eread1decode
+Z119 w1570801194
+R1
+R2
+!i122 21
+R3
+Z120 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/read1decode.vhd
+Z121 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/read1decode.vhd
+l0
+R17
+V?L_VD=W`MWzoEfM0F0L[@1
+!s100 kU63E7Kl`i559IDShFC6d2
+R7
+32
+R89
+!i10b 1
+R95
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/read1decode.vhd|
+Z123 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/read1decode.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 11 read1decode 0 22 ?L_VD=W`MWzoEfM0F0L[@1
+!i122 21
+l133
+Z124 L83 130
+VCc;fG0odSbWN3eO``oWje0
+!s100 Uj:kC1kB6_hA7NR[lHhM@0
+R7
+32
+R89
+!i10b 1
+R95
+R122
+R123
+!i113 1
+R12
+R13
+Ereaddecoder
+Z125 w1572009912
+R1
+R2
+!i122 22
+R3
+Z126 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readdecoder.vhd
+Z127 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readdecoder.vhd
+l0
+R17
+VnJAiD?in?ZVC;Xb^1dmkQ2
+!s100 >Wf`L85jIWW2cY8lnVozC2
+R7
+32
+R89
+!i10b 1
+R95
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readdecoder.vhd|
+Z129 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readdecoder.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 11 readdecoder 0 22 nJAiD?in?ZVC;Xb^1dmkQ2
+!i122 22
+l133
+R124
+V9U9<=EjMAOL@9X4Z;7TVY1
+!s100 ^9`b;V;Vk1SB]I<n0mQMK2
+R7
+32
+R89
+!i10b 1
+R95
+R128
+R129
+!i113 1
+R12
+R13
+Ereadmux
+Z130 w1572012396
+R60
+R1
+R2
+!i122 23
+R3
+Z131 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readmux.vhd
+Z132 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readmux.vhd
+l0
+R17
+V;Fa517GOlY=QZ_=YIP[z>2
+!s100 34QMT_nZ<Rh4h[PF]99Q62
+R7
+32
+R89
+!i10b 1
+R95
+Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readmux.vhd|
+Z134 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readmux.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 7 readmux 0 22 ;Fa517GOlY=QZ_=YIP[z>2
+!i122 23
+l123
+L84 1114
+VGD7Dj[=C8b]]zHPZSo>zh3
+!s100 Sk]8gh6bi9;_dgYjA10Gf0
+R7
+32
+R89
+!i10b 1
+R95
+R133
+R134
+!i113 1
+R12
+R13
+Ereg32bit
+Z135 w1572013144
+R1
+R2
+!i122 24
+R3
+Z136 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/reg32bit.vhd
+Z137 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/reg32bit.vhd
+l0
+R6
+VWQ?:I`:]bzOmU6H8I8TTK1
+!s100 AHA[cC`<[fBV4g@eI__AR2
+R7
+32
+Z138 !s110 1606275357
+!i10b 1
+Z139 !s108 1606275357.000000
+Z140 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/reg32bit.vhd|
+Z141 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/reg32bit.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 8 reg32bit 0 22 WQ?:I`:]bzOmU6H8I8TTK1
+!i122 24
+l46
+L36 469
+VbMKF]X5XihCW:eT2nffAW1
+!s100 QYW7cB;b5;2]^5k`jm`5]0
+R7
+32
+R138
+!i10b 1
+R139
+R140
+R141
+!i113 1
+R12
+R13
+Eregfile32
+Z142 w1572024058
+R1
+R2
+!i122 25
+R3
+Z143 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfile32.vhd
+Z144 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfile32.vhd
+l0
+R6
+VMz:lY`V]J>1XSlZ^?l1SY2
+!s100 JD3=REd37mFJDS=9W8`^k3
+R7
+32
+R138
+!i10b 1
+R139
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfile32.vhd|
+Z146 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfile32.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 9 regfile32 0 22 Mz:lY`V]J>1XSlZ^?l1SY2
+!i122 25
+l233
+L40 670
+VnOIIPGN0H8?NBO>8Z?Z0_1
+!s100 z4zF<4jLmbkkAQMbm^m4R0
+R7
+32
+R138
+!i10b 1
+R139
+R145
+R146
+!i113 1
+R12
+R13
+Eregfilemux
+Z147 w1573831190
+R60
+R1
+R2
+!i122 26
+R3
+Z148 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfilemux.vhd
+Z149 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfilemux.vhd
+l0
+R17
+V5OZ`haJ=<URZ@g]I5_kbU2
+!s100 @IO??iHllR7oRSi9=Y0]70
+R7
+32
+R138
+!i10b 1
+R139
+Z150 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfilemux.vhd|
+Z151 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfilemux.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 10 regfilemux 0 22 5OZ`haJ=<URZ@g]I5_kbU2
+!i122 26
+l65
+L54 44
+V=[AHC5bJF0=a2XoQc6nfQ2
+!s100 _=`Zl3XfD`W1m1i4Dm37V0
+R7
+32
+R138
+!i10b 1
+R139
+R150
+R151
+!i113 1
+R12
+R13
+Eshiftlefttwo
+Z152 w1575657200
+R1
+R2
+!i122 27
+R3
+Z153 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwo.vhd
+Z154 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwo.vhd
+l0
+R17
+V]kdIFIQJaP;K_:ZFff?i91
+!s100 U^ok?iWXSSm4>h[]XbSeU2
+R7
+32
+R138
+!i10b 1
+R139
+Z155 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwo.vhd|
+Z156 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwo.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 12 shiftlefttwo 0 22 ]kdIFIQJaP;K_:ZFff?i91
+!i122 27
+l76
+Z157 L52 47
+V_G3_kISAmo;Dl2fB]RXCa2
+!s100 5kTInmY^7lYnDDK=gJIGF3
+R7
+32
+R138
+!i10b 1
+R139
+R155
+R156
+!i113 1
+R12
+R13
+Eshiftlefttwobranch
+Z158 w1575657164
+R1
+R2
+!i122 28
+R3
+Z159 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwobranch.vhd
+Z160 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwobranch.vhd
+l0
+R17
+VEP^_S0[GfYOGJHHf?nVbP2
+!s100 4onWH9o7M_jUdiRGoeaW^2
+R7
+32
+R138
+!i10b 1
+R139
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwobranch.vhd|
+Z162 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwobranch.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 18 shiftlefttwobranch 0 22 EP^_S0[GfYOGJHHf?nVbP2
+!i122 28
+l76
+R157
+V2OJ8oA5WbG6OkJf`KMOb>0
+!s100 Yc826Ofa7FCO3]fTkmDo`2
+R7
+32
+R138
+!i10b 1
+R139
+R161
+R162
+!i113 1
+R12
+R13
+Esignextend
+Z163 w1573828154
+R1
+R2
+!i122 29
+R3
+Z164 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/SignExtend.vhd
+Z165 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/SignExtend.vhd
+l0
+R6
+V@WFz73e@?>ZTlkZ9VzaVj0
+!s100 >RV1zZeiKZz4Oj2>K::iP1
+R7
+32
+R138
+!i10b 1
+R139
+Z166 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/SignExtend.vhd|
+Z167 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/SignExtend.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 10 signextend 0 22 @WFz73e@?>ZTlkZ9VzaVj0
+!i122 29
+l38
+L33 62
+VSclSWG=SH;_LJ^cQjMLK;1
+!s100 UaIVVQdm^4AZ^h^Ai1^NR3
+R7
+32
+R138
+!i10b 1
+R139
+R166
+R167
+!i113 1
+R12
+R13
+Ethirtytwobaddbranch
+Z168 w1573829890
+R1
+R2
+!i122 30
+R3
+Z169 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobaddBranch.vhd
+Z170 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobaddBranch.vhd
+l0
+R17
+V3?2j595<37QF3l8g[KRS_0
+!s100 ZXj;IEGIX7A>MGjYNnZ:R1
+R7
+32
+R138
+!i10b 1
+R139
+Z171 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobaddBranch.vhd|
+Z172 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobaddBranch.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 19 thirtytwobaddbranch 0 22 3?2j595<37QF3l8g[KRS_0
+!i122 30
+l74
+L53 41
+V`7cT6d92WfYdKdQBWhZEU2
+!s100 EPFGGjKUF^^4?7ci[AO`H1
+R7
+32
+R138
+!i10b 1
+R139
+R171
+R172
+!i113 1
+R12
+R13
+Ethirtytwobitmux
+Z173 w1573831246
+R60
+R1
+R2
+!i122 31
+R3
+Z174 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobitmux.vhd
+Z175 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobitmux.vhd
+l0
+R17
+VWN;IjUJ88AdS0e;m5GnNL2
+!s100 BD]]GaE13=nY;m52AHMS00
+R7
+32
+R138
+!i10b 1
+R139
+Z176 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobitmux.vhd|
+Z177 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobitmux.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+DEx4 work 15 thirtytwobitmux 0 22 WN;IjUJ88AdS0e;m5GnNL2
+!i122 31
+l65
+Z178 L54 98
+VlLbca`=i=B^D3H2@1?lMD0
+!s100 QX8zeU0^hOcEz_cTgh3Ol3
+R7
+32
+R138
+!i10b 1
+R139
+R176
+R177
+!i113 1
+R12
+R13
+Ethirtytwobpcadd
+Z179 w1575749832
+R1
+R2
+!i122 32
+R3
+Z180 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ThirtyTwoBPCAdd.vhd
+Z181 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ThirtyTwoBPCAdd.vhd
+l0
+R63
+V:Fea:Co@G;eofck[;zRMi3
+!s100 gPE5@7?9`I]0W1mD_nj1Z2
+R7
+32
+Z182 !s110 1606275358
+!i10b 1
+Z183 !s108 1606275358.000000
+Z184 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ThirtyTwoBPCAdd.vhd|
+Z185 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ThirtyTwoBPCAdd.vhd|
+!i113 1
+R12
+R13
+Asyn
+R1
+R2
+DEx4 work 15 thirtytwobpcadd 0 22 :Fea:Co@G;eofck[;zRMi3
+!i122 32
+l74
+L51 45
+VkV2BZL>jX9AlaV:1NokCH1
+!s100 E26c`CHmLmGmbOW:V[[K62
+R7
+32
+R182
+!i10b 1
+R183
+R184
+R185
+!i113 1
+R12
+R13
+Ethreebitreg
+Z186 w1575770846
+R1
+R2
+!i122 33
+R3
+Z187 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Threebitreg.vhd
+Z188 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Threebitreg.vhd
+l0
+R23
+V^XKi@GEgkSi1g4KQW8:>i1
+!s100 f]9XQk3<P1DC5<?mIVPLP3
+R7
+32
+R182
+!i10b 1
+R183
+Z189 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Threebitreg.vhd|
+Z190 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Threebitreg.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 11 threebitreg 0 22 ^XKi@GEgkSi1g4KQW8:>i1
+!i122 33
+l45
+L35 64
+V:S_APaoakCOgC<nnD0X[[2
+!s100 YF0`YKfo^7gS3l0GYL2Ej2
+R7
+32
+R182
+!i10b 1
+R183
+R189
+R190
+!i113 1
+R12
+R13
+Etwentysixbitreg
+Z191 w1575769722
+R1
+R2
+!i122 34
+R3
+Z192 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twentysixbitreg.vhd
+Z193 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twentysixbitreg.vhd
+l0
+R23
+V<7a4K?ekA:?b3l4A1;XC43
+!s100 gN31AOm;d0kebUbGjn9Ua3
+R7
+32
+R182
+!i10b 1
+R183
+Z194 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twentysixbitreg.vhd|
+Z195 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twentysixbitreg.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 15 twentysixbitreg 0 22 <7a4K?ekA:?b3l4A1;XC43
+!i122 34
+l45
+L35 400
+VKV]:dW5L;NTRVU4TjWEz>0
+!s100 dhk_4JScmZZJlRTFW6Kl=2
+R7
+32
+R182
+!i10b 1
+R183
+R194
+R195
+!i113 1
+R12
+R13
+Etwobitreg
+Z196 w1575771156
+R1
+R2
+!i122 35
+R3
+Z197 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Twobitreg.vhd
+Z198 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Twobitreg.vhd
+l0
+R23
+Vb4l:;:6z9B2c3YdYOY30P2
+!s100 6GL[D]b=I7gDc;l3fY`i`2
+R7
+32
+R182
+!i10b 1
+R183
+Z199 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Twobitreg.vhd|
+Z200 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Twobitreg.vhd|
+!i113 1
+R12
+R13
+Abdf_type
+R1
+R2
+DEx4 work 9 twobitreg 0 22 b4l:;:6z9B2c3YdYOY30P2
+!i122 35
+l45
+L35 50
+V7R>I^^gb2R>=n:XLkEcB32
+!s100 gS=0e;@GD_0IQTO17BZRT0
+R7
+32
+R182
+!i10b 1
+R183
+R199
+R200
+!i113 1
+R12
+R13
+Etwotoone
+Z201 w1572025210
+R60
+R1
+R2
+!i122 36
+R3
+Z202 8C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd
+Z203 FC:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd
+l0
+R17
+VDjKZk<FD61>=YI>8^U2JE0
+!s100 FS7E12]jkjMI`L`NFzhGm0
+R7
+32
+R182
+!i10b 1
+R183
+Z204 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd|
+!s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd|
+!i113 1
+R12
+R13
+Asyn
+R60
+R1
+R2
+Z205 DEx4 work 8 twotoone 0 22 DjKZk<FD61>=YI>8^U2JE0
+!i122 36
+l65
+R178
+Z206 Vai9NMBiV>fkQB^_z1cZVQ3
+Z207 !s100 <DbfEjXYFGPBKKb9HAF;92
+R7
+32
+R182
+!i10b 1
+R183
+R204
+Z208 !s107 C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd|
+!i113 1
+R12
+R13

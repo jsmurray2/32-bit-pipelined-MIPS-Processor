@@ -1,0 +1,49 @@
+##############################################
+# A simple .do file for the 4-bit counter    #
+# a more advanced .do file uses Tcl commands #
+##############################################
+
+# Reset the simulator
+restart -f
+
+# Remove all signals from wave window
+delete wave *
+
+# Add signals into wave window (using script)
+#
+# Note: wave.do file must already exist!!!
+#
+# Create it by setting up a wave window, then "save format"
+do wave.do
+
+# Add in "required" signals as necessary
+#
+# Define a clock
+#
+# clock = 0 at 0 ns
+#         1 at 10 ns
+#         repeat the pattern every 20 ns
+force MIPSclock 0 0 ns, 1 10 ns -r 20 ns
+# Define a high-active reset
+#
+# reset = 1 at 0 ns
+#         0 after 20 ns
+#         Stays low for rest of time
+force reset_n 0 0ns, 1 40 ns 
+
+# Add in signals we want to control
+#force enable 1
+#force select 2#10
+#force busX  16#1234abcd
+
+# Run the simulation for 600 ns
+run 1000 ns
+
+# Set control signals to new values
+#force enable 0
+#force select 2#01
+
+# Run the simulation some more...
+#run 40 ns
+
+

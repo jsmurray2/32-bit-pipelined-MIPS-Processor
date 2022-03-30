@@ -1,0 +1,165 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'MIPSclock'
+Slack : -6.330
+TNS   : -4101.085
+
+Type  : Slow 1100mV 85C Model Setup 'reset_n'
+Slack : -3.278
+TNS   : -98.733
+
+Type  : Slow 1100mV 85C Model Hold 'MIPSclock'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'reset_n'
+Slack : 0.565
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'MIPSclock'
+Slack : -0.327
+TNS   : -434.414
+
+Type  : Slow 1100mV 85C Model Recovery 'reset_n'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'reset_n'
+Slack : -0.859
+TNS   : -27.149
+
+Type  : Slow 1100mV 85C Model Removal 'MIPSclock'
+Slack : -0.743
+TNS   : -562.338
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'MIPSclock'
+Slack : -2.174
+TNS   : -1179.365
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'reset_n'
+Slack : -0.394
+TNS   : -16.826
+
+Type  : Slow 1100mV 0C Model Setup 'MIPSclock'
+Slack : -6.204
+TNS   : -3953.249
+
+Type  : Slow 1100mV 0C Model Setup 'reset_n'
+Slack : -3.229
+TNS   : -96.671
+
+Type  : Slow 1100mV 0C Model Hold 'MIPSclock'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'reset_n'
+Slack : 0.523
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'MIPSclock'
+Slack : -0.301
+TNS   : -394.314
+
+Type  : Slow 1100mV 0C Model Recovery 'reset_n'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'reset_n'
+Slack : -0.838
+TNS   : -26.494
+
+Type  : Slow 1100mV 0C Model Removal 'MIPSclock'
+Slack : -0.720
+TNS   : -471.178
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'MIPSclock'
+Slack : -2.174
+TNS   : -1247.893
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'reset_n'
+Slack : -0.394
+TNS   : -18.962
+
+Type  : Fast 1100mV 85C Model Setup 'MIPSclock'
+Slack : -3.265
+TNS   : -2157.252
+
+Type  : Fast 1100mV 85C Model Setup 'reset_n'
+Slack : -1.671
+TNS   : -47.097
+
+Type  : Fast 1100mV 85C Model Hold 'MIPSclock'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'reset_n'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'MIPSclock'
+Slack : -0.290
+TNS   : -402.631
+
+Type  : Fast 1100mV 85C Model Recovery 'reset_n'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'reset_n'
+Slack : -0.540
+TNS   : -17.147
+
+Type  : Fast 1100mV 85C Model Removal 'MIPSclock'
+Slack : -0.458
+TNS   : -364.131
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'MIPSclock'
+Slack : -2.174
+TNS   : -520.325
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'reset_n'
+Slack : -0.077
+TNS   : -2.312
+
+Type  : Fast 1100mV 0C Model Setup 'MIPSclock'
+Slack : -2.928
+TNS   : -1805.104
+
+Type  : Fast 1100mV 0C Model Setup 'reset_n'
+Slack : -1.368
+TNS   : -39.942
+
+Type  : Fast 1100mV 0C Model Hold 'MIPSclock'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'reset_n'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'MIPSclock'
+Slack : -0.313
+TNS   : -437.848
+
+Type  : Fast 1100mV 0C Model Recovery 'reset_n'
+Slack : -0.003
+TNS   : -0.006
+
+Type  : Fast 1100mV 0C Model Removal 'reset_n'
+Slack : -0.533
+TNS   : -16.865
+
+Type  : Fast 1100mV 0C Model Removal 'MIPSclock'
+Slack : -0.445
+TNS   : -331.203
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'MIPSclock'
+Slack : -2.174
+TNS   : -521.768
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'reset_n'
+Slack : -0.081
+TNS   : -2.444
+
+------------------------------------------------------------

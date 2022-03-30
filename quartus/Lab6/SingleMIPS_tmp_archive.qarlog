@@ -1,0 +1,75 @@
+Quartus Prime Archive log --	G:/School/Lab5/SingleMIPS_tmp_archive.qarlog
+
+Archive:	G:/School/Lab5/SingleMIPS_tmp_archive.qar
+Date:		Sat Dec 07 16:12:09 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+G:/School/Lab5/32bitalu.vhd
+G:/School/Lab5/ALUControl.bdf
+G:/School/Lab5/GlobalControl.bdf
+G:/School/Lab5/IMem.bdf
+G:/School/Lab5/MIPSProcessor.bdf
+G:/School/Lab5/Mem1p128w32b.bsf
+G:/School/Lab5/Mem1p128w32b.qip
+G:/School/Lab5/Mem1p128w32b.vhd
+G:/School/Lab5/SignExtend.bdf
+G:/School/Lab5/SingleMIPS.qpf
+G:/School/Lab5/SingleMIPS.qsf
+G:/School/Lab5/ThirtyTwoBPCAdd.bsf
+G:/School/Lab5/ThirtyTwoBPCAdd.qip
+G:/School/Lab5/ThirtyTwoBPCAdd.vhd
+G:/School/Lab5/alu_1bit_adder.vhd
+G:/School/Lab5/branchshift.bsf
+G:/School/Lab5/branchshift.qip
+G:/School/Lab5/branchshift.vhd
+G:/School/Lab5/constant4.bsf
+G:/School/Lab5/constant4.qip
+G:/School/Lab5/constant4.vhd
+G:/School/Lab5/datamemory.bsf
+G:/School/Lab5/datamemory.qip
+G:/School/Lab5/datamemory.vhd
+G:/School/Lab5/datamemorysym.bdf
+G:/School/Lab5/jumpshift.bdf
+G:/School/Lab5/lab5MemInit.mif
+G:/School/Lab5/mux_2_1_1b.vhd
+G:/School/Lab5/mux_4_1_1b.vhd
+G:/School/Lab5/onebitalu.vhd
+G:/School/Lab5/pllphaseshift.cmp
+G:/School/Lab5/pllphaseshift.qip
+G:/School/Lab5/pllphaseshift.sip
+G:/School/Lab5/pllphaseshift.spd
+G:/School/Lab5/pllphaseshift.vhd
+G:/School/Lab5/pllphaseshift/pllphaseshift_0002.qip
+G:/School/Lab5/pllphaseshift/pllphaseshift_0002.v
+G:/School/Lab5/pllphaseshift_sim/pllphaseshift.vho
+G:/School/Lab5/readdecoder.vhd
+G:/School/Lab5/readmux.vhd
+G:/School/Lab5/reg32bit.vhd
+G:/School/Lab5/regfile32.vhd
+G:/School/Lab5/regfilemux.bsf
+G:/School/Lab5/regfilemux.qip
+G:/School/Lab5/regfilemux.vhd
+G:/School/Lab5/shiftlefttwo.bsf
+G:/School/Lab5/shiftlefttwo.qip
+G:/School/Lab5/shiftlefttwo.vhd
+G:/School/Lab5/shiftlefttwobranch.bsf
+G:/School/Lab5/shiftlefttwobranch.qip
+G:/School/Lab5/shiftlefttwobranch.vhd
+G:/School/Lab5/thirtytwobaddBranch.bsf
+G:/School/Lab5/thirtytwobaddBranch.qip
+G:/School/Lab5/thirtytwobaddBranch.vhd
+G:/School/Lab5/thirtytwobitmux.bsf
+G:/School/Lab5/thirtytwobitmux.qip
+G:/School/Lab5/thirtytwobitmux.vhd
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 58 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sat Dec 07 16:12:11 2019
+Source archive file:	G:/School/Lab5/SingleMIPS_tmp_archive.qar
+Archive was extracted into	G:/School/Lab6/
+		 - successfully.

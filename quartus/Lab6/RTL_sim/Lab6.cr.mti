@@ -1,0 +1,302 @@
+C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfilemux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfilemux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity regfilemux
+-- Compiling architecture SYN of regfilemux
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift_sim/pllphaseshift.vho {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift_sim/pllphaseshift.vho
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_lnsim_components
+-- Compiling entity pllphaseshift
+-- Compiling architecture RTL of pllphaseshift
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fourbitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fourbitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fourbitreg
+-- Compiling architecture bdf_type of Fourbitreg
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twentysixbitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twentysixbitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity twentysixbitreg
+-- Compiling architecture bdf_type of twentysixbitreg
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/branchshift.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/branchshift.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity branchshift
+-- Compiling architecture SYN of branchshift
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/32bitalu.vhd {1 vcom\ -work\ work\ -2002\ -explicit\ -stats=none\ C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/32bitalu.vhd\nModel\ Technology\ ModelSim\ -\ Intel\ FPGA\ Edition\ vcom\ 2020.1\ Compiler\ 2020.02\ Feb\ 28\ 2020\n--\ Loading\ package\ STANDARD\n--\ Loading\ package\ TEXTIO\n--\ Loading\ package\ std_logic_1164\n--\ Compiling\ entity\ \\32bitalu\\\n--\ Compiling\ architecture\ bdf_type\ of\ \\32bitalu\\\n\n {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/twotoone.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity twotoone
+-- Compiling architecture SYN of twotoone
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobitmux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobitmux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity thirtytwobitmux
+-- Compiling architecture SYN of thirtytwobitmux
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fivebitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Fivebitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fivebitreg
+-- Compiling architecture bdf_type of Fivebitreg
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/alu_1bit_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/alu_1bit_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_1bit_adder
+-- Compiling architecture SYN of alu_1bit_adder
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem1p128w32b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem1p128w32b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity Mem1p128w32b
+-- Compiling architecture SYN of mem1p128w32b
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mips_pipelined_processor.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mips_pipelined_processor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mips_pipelined_processor
+-- Compiling architecture bdf_type of mips_pipelined_processor
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/read1decode.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/read1decode.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity read1decode
+-- Compiling architecture SYN of read1decode
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/SignExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture bdf_type of SignExtend
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwobranch.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwobranch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftlefttwobranch
+-- Compiling architecture SYN of shiftlefttwobranch
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/GlobalControl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/GlobalControl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GlobalControl
+-- Compiling architecture bdf_type of GlobalControl
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/jumpshift.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/jumpshift.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity jumpshift
+-- Compiling architecture bdf_type of jumpshift
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem2p128w32b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Mem2p128w32b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity Mem2p128w32b
+-- Compiling architecture SYN of mem2p128w32b
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MemBlock.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MemBlock.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MemBlock
+-- Compiling architecture bdf_type of MemBlock
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readdecoder.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readdecoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity readdecoder
+-- Compiling architecture SYN of readdecoder
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/reg32bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/reg32bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg32bit
+-- Compiling architecture bdf_type of reg32bit
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/datamemory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/datamemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity datamemory
+-- Compiling architecture SYN of datamemory
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ALUControl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ALUControl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALUControl
+-- Compiling architecture bdf_type of ALUControl
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MUX_2_1_16b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/MUX_2_1_16b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity MUX_2_1_16b
+-- Compiling architecture SYN of mux_2_1_16b
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/onebitalu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/onebitalu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity onebitalu
+-- Compiling architecture bdf_type of onebitalu
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfile32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/regfile32.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regfile32
+-- Compiling architecture bdf_type of regfile32
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/shiftlefttwo.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity shiftlefttwo
+-- Compiling architecture SYN of shiftlefttwo
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ThirtyTwoBPCAdd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ThirtyTwoBPCAdd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ThirtyTwoBPCAdd
+-- Compiling architecture SYN of thirtytwobpcadd
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ImemResetMux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/ImemResetMux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity ImemResetMux
+-- Compiling architecture SYN of imemresetmux
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_2_1_1b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_2_1_1b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity mux_2_1_1b
+-- Compiling architecture SYN of mux_2_1_1b
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Threebitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Threebitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Threebitreg
+-- Compiling architecture bdf_type of Threebitreg
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/constant4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/constant4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity constant4
+-- Compiling architecture SYN of constant4
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readmux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/readmux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity readmux
+-- Compiling architecture SYN of readmux
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/pllphaseshift.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity pllphaseshift
+-- Compiling architecture rtl of pllphaseshift
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_4_1_1b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/mux_4_1_1b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity mux_4_1_1b
+-- Compiling architecture SYN of mux_4_1_1b
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobaddBranch.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/thirtytwobaddBranch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity thirtytwobaddBranch
+-- Compiling architecture SYN of thirtytwobaddbranch
+
+} {} {}} C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Twobitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jsmur/OneDrive/School/Villanova/Junior/Fall/ComputerArchitecture/Labs/Lab6/Lab6/Twobitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Twobitreg
+-- Compiling architecture bdf_type of Twobitreg
+
+} {} {}}

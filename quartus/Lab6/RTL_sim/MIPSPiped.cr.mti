@@ -1,0 +1,243 @@
+W:/ECE3445/Lab6/alu_1bit_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/alu_1bit_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_1bit_adder
+-- Compiling architecture SYN of alu_1bit_adder
+
+} {} {}} W:/ECE3445/Lab6/mips_pipelined_processor.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/mips_pipelined_processor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mips_pipelined_processor
+-- Compiling architecture bdf_type of mips_pipelined_processor
+
+} {} {}} W:/ECE3445/Lab6/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/SignExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture bdf_type of SignExtend
+
+} {} {}} W:/ECE3445/Lab6/Mem1p128w32b.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/Mem1p128w32b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity Mem1p128w32b
+-- Compiling architecture SYN of mem1p128w32b
+
+} {} {}} W:/ECE3445/Lab6/GlobalControl.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/GlobalControl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GlobalControl
+-- Compiling architecture bdf_type of GlobalControl
+
+} {} {}} W:/ECE3445/Lab6/readdecoder.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/readdecoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity readdecoder
+-- Compiling architecture SYN of readdecoder
+
+} {} {}} W:/ECE3445/Lab6/reg32bit.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/reg32bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg32bit
+-- Compiling architecture bdf_type of reg32bit
+
+} {} {}} W:/ECE3445/Lab6/jumpshift.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/jumpshift.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity jumpshift
+-- Compiling architecture bdf_type of jumpshift
+
+} {} {}} W:/ECE3445/Lab6/regfile32.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/regfile32.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regfile32
+-- Compiling architecture bdf_type of regfile32
+
+} {} {}} W:/ECE3445/Lab6/onebitalu.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/onebitalu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity onebitalu
+-- Compiling architecture bdf_type of onebitalu
+
+} {} {}} W:/ECE3445/Lab6/MUX_2_1_16b.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/MUX_2_1_16b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity MUX_2_1_16b
+-- Compiling architecture SYN of mux_2_1_16b
+
+} {} {}} W:/ECE3445/Lab6/datamemory.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/datamemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity datamemory
+-- Compiling architecture SYN of datamemory
+
+} {} {}} W:/ECE3445/Lab6/ALUControl.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/ALUControl.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALUControl
+-- Compiling architecture bdf_type of ALUControl
+
+} {} {}} W:/ECE3445/Lab6/ThirtyTwoBPCAdd.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/ThirtyTwoBPCAdd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ThirtyTwoBPCAdd
+-- Compiling architecture SYN of thirtytwobpcadd
+
+} {} {}} W:/ECE3445/Lab6/Threebitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/Threebitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Threebitreg
+-- Compiling architecture bdf_type of Threebitreg
+
+} {} {}} W:/ECE3445/Lab6/mux_2_1_1b.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/mux_2_1_1b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity mux_2_1_1b
+-- Compiling architecture SYN of mux_2_1_1b
+
+} {} {}} W:/ECE3445/Lab6/ImemResetMux.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/ImemResetMux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity ImemResetMux
+-- Compiling architecture SYN of imemresetmux
+
+} {} {}} W:/ECE3445/Lab6/readmux.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/readmux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity readmux
+-- Compiling architecture SYN of readmux
+
+} {} {}} W:/ECE3445/Lab6/constant4.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/constant4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity constant4
+-- Compiling architecture SYN of constant4
+
+} {} {}} W:/ECE3445/Lab6/Twobitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/Twobitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Twobitreg
+-- Compiling architecture bdf_type of Twobitreg
+
+} {} {}} W:/ECE3445/Lab6/thirtytwobaddBranch.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/thirtytwobaddBranch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity thirtytwobaddBranch
+-- Compiling architecture SYN of thirtytwobaddbranch
+
+} {} {}} W:/ECE3445/Lab6/mux_4_1_1b.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/mux_4_1_1b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity mux_4_1_1b
+-- Compiling architecture SYN of mux_4_1_1b
+
+} {} {}} W:/ECE3445/Lab6/regfilemux.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/regfilemux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity regfilemux
+-- Compiling architecture SYN of regfilemux
+
+} {} {}} W:/ECE3445/Lab6/Fourbitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/Fourbitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fourbitreg
+-- Compiling architecture bdf_type of Fourbitreg
+
+} {} {}} W:/ECE3445/Lab6/twentysixbitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/twentysixbitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity twentysixbitreg
+-- Compiling architecture bdf_type of twentysixbitreg
+
+} {} {}} W:/ECE3445/Lab6/branchshift.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/branchshift.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity branchshift
+-- Compiling architecture SYN of branchshift
+
+} {} {}} W:/ECE3445/Lab6/32bitalu.vhd {1 vcom\ -work\ work\ -2002\ -explicit\ -stats=none\ W:/ECE3445/Lab6/32bitalu.vhd\nModel\ Technology\ ModelSim\ -\ Intel\ FPGA\ Edition\ vcom\ 10.5b\ Compiler\ 2016.10\ Oct\ \ 5\ 2016\n--\ Loading\ package\ STANDARD\n--\ Loading\ package\ TEXTIO\n--\ Loading\ package\ std_logic_1164\n--\ Compiling\ entity\ \\32bitalu\\\n--\ Compiling\ architecture\ bdf_type\ of\ \\32bitalu\\\n\n {} {}} W:/ECE3445/Lab6/thirtytwobitmux.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/thirtytwobitmux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity thirtytwobitmux
+-- Compiling architecture SYN of thirtytwobitmux
+
+} {} {}} W:/ECE3445/Lab6/Fivebitreg.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/Fivebitreg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fivebitreg
+-- Compiling architecture bdf_type of Fivebitreg
+
+} {} {}} W:/ECE3445/Lab6/twotoone.vhd {1 {vcom -work work -2002 -explicit -stats=none W:/ECE3445/Lab6/twotoone.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity twotoone
+-- Compiling architecture SYN of twotoone
+
+} {} {}}
